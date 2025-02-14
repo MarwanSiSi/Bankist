@@ -6,16 +6,21 @@ Bankist is a minimalist banking website template that combines sleek design with
 ## Image Previews
 
 ### Home Page
-![Home Page Preview](img/home-page-preview.jpg)
+![Home Page Preview](img/home_screen.jpg)
 
 ### Operations Section
-![Operations Section Preview](img/operations-preview.jpg)
+![Operations Section Preview](img/operations_screen.jpg)
 
 ### Testimonials Section
-![Testimonials Section Preview](img/testimonials-preview.jpg)
+![Testimonials Section Preview](img/encourage_screen.jpg)
 
 ### Modal Window
-![Modal Window Preview](img/modal-preview.jpg)
+![Modal Window Preview](img/open_account_screen.jpg)
+
+### Features View
+![Modal Window Preview](img/features_screen.jpg)
+![Modal Window Preview](img/features_screen_2.jpg)
+
 
 ## Features
 
